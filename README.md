@@ -1,7 +1,9 @@
 # -Banking-System-Graduation-project
 BankSystemDesign
 First we Received a Required Document from the client
-![277184062-921f5c42-373c-4302-9adc-ba5e8257950f](https://github.com/abdelrhmanmuhameed/-Banking-System-Graduation-project/assets/81581455/7cdf445d-2c54-4d38-93b5-23bdfd05771c)
+
+![Document](https://github.com/abdelrhmanmuhameed/-Banking-System-Graduation-project/assets/81581455/43403726-1c2c-4552-b5e9-0f5d206cb983)
+
 
  <h2>Second We Start to Draw The ERD</h2>
  
@@ -12,7 +14,8 @@ First we Received a Required Document from the client
 ![Mapping](https://github.com/abdelrhmanmuhameed/-Banking-System-Graduation-project/assets/81581455/fab4c0b0-4ebd-4264-9ab5-95519117fab4)
 
 <h2>Fourth implementation of OLTP schema</h2>
-![Screenshot (5)](https://github.com/abdelrhmanmuhameed/-Banking-System-Graduation-project/assets/81581455/d03ca8cb-78c4-4c6f-ab0f-ac6c1eb1200b)
+
+![oltp](https://github.com/abdelrhmanmuhameed/-Banking-System-Graduation-project/assets/81581455/7d1ef211-bcf8-49c4-ad64-f64763ebf116)
 
 <h2>Let's go for structure</h2>
 create database Union_Bank
@@ -224,5 +227,35 @@ Dimensions -----> Account - Branch - Customer -ATM - Date - card
 Fact Table: Transaction Table
 
 <h2>Star OLTP schema</h2>
-![Screenshot (7)](https://github.com/abdelrhmanmuhameed/-Banking-System-Graduation-project/assets/81581455/7355d837-425f-443b-8108-fbe1d9823180)
+
+![DWH Diagram](https://github.com/abdelrhmanmuhameed/-Banking-System-Graduation-project/assets/81581455/a03d6004-8b58-46d0-b6ba-1db533820d1f)
+
+<h2>Business Intelligence Using SSIS SSAS SSRS</h2>
+<h2>First Integration using SSIS</h2>
+
+![ETL](https://github.com/abdelrhmanmuhameed/-Banking-System-Graduation-project/assets/81581455/0035c7e9-65e5-4310-a196-eba769b9f6ef)
+
+<h2>Secound Cube "The cube is Genarlized About Business and Specified for the CEO And CMO Should closely track financial performance, set clear goals, and analyse key metrics to measure profits. they must identify and manage risks by conducting assessments and creating strategies to mitigate potential threats."
+</h2>
+
+![SSAS1](https://github.com/abdelrhmanmuhameed/-Banking-System-Graduation-project/assets/81581455/b05887c1-8568-4066-93a2-9296223f8319)
+
+<h2>Thrid Reporting using SSRS</h2>
+
+
+![SSRS2](https://github.com/abdelrhmanmuhameed/-Banking-System-Graduation-project/assets/81581455/1178f8bc-5a24-49d3-9ab3-dc309190319b)
+![SSRS](https://github.com/abdelrhmanmuhameed/-Banking-System-Graduation-project/assets/81581455/3a841f4d-e08b-4ff4-8fc0-8e1a12e775fc)
+![SSRS](https://github.com/abdelrhmanmuhameed/-Banking-System-Graduation-project/assets/81581455/8034737e-931a-4c0a-80a3-683342840489)
+
+<h2>Visualzation</h2>
+<hr>
+<h2>Using Power BI</h2>
+<hr>
+<h2>The analysis of the Bank application history data of sales, customer, product and operations departments to figure out the company's performance to get an overview insight of both departments will empower the company to make data-driven decisions that can lead to increased revenue, cost savings, improved customer satisfaction, and enhanced overall business performance.</h2>
+<hr>
+<h2>It allows businesses to respond to market dynamics, customer preferences, and operational challenges more effectively and provides valuable insights to the operations, marketing, and sales teams for informed decision-making.</h2>
+
+
+
+
 
